@@ -1,6 +1,7 @@
 # Landing page reutilizável — odontologia
 
 Site estático, sem instalação, banco de dados, PHP ou bibliotecas externas. Primeiro modelo para visitantes do Instagram, com layout mobile, formulário que prepara uma mensagem no WhatsApp, galeria acessível e mapa carregado sob solicitação.
+Publicação da landing page
 
 ## Personalizar
 
